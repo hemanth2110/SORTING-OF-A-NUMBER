@@ -77,6 +77,7 @@ DOWN:DJNZ R6,LOOP
 MOV R1,#02H
 DJNZ R1,LOOP1
 END
+
 ```
 ## OUTPUT(Descending order)
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/33bfa5ad-0847-4aa9-a03e-c73a5270e10f" />
