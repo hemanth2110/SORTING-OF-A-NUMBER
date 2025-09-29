@@ -43,6 +43,8 @@ END
 ## OUTPUT(Ascending order):
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/9cc65551-305c-4a44-9a9e-d4fa3f5a1b6d" />
 
+<img width="821" height="510" alt="ascend" src="https://github.com/user-attachments/assets/f1a69930-429b-4b4e-8465-110c79c2b7d9" />
+
 ---
 
 ## Algorithm(Descending order)
@@ -81,6 +83,8 @@ END
 ```
 ## OUTPUT(Descending order)
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/33bfa5ad-0847-4aa9-a03e-c73a5270e10f" />
+<img width="833" height="495" alt="descend" src="https://github.com/user-attachments/assets/afd33b69-ff6a-478b-84b1-dab93a4d5bb7" />
+
 
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
